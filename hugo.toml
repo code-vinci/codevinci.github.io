@@ -84,7 +84,7 @@ googleAnalytics = "G-05V46SQ3PV"
         hiddenInSingle = false
 
     [params.editPost]
-        URL = "https://github.com/codevinci/codevinci.github.io/content"
+        URL = "https://github.com/code-vinci/codevinci.github.io/content"
         Text = "Suggest Changes"
         appendFilePath = true
 
