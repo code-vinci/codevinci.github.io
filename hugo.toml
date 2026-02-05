@@ -119,10 +119,6 @@ googleAnalytics = "G-05V46SQ3PV"
     url = "/events/"
     weight = 8
 
-[[menu.main]]
-    name = "Docs"
-    url = "/docs/"
-    weight = 9
 
 [[menu.main]]
     name = "About"
