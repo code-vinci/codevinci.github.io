@@ -49,7 +49,7 @@ googleAnalytics = "G-05V46SQ3PV"
 
     # Home page profile
     [params.profileMode]
-        enabled = true
+        enabled = false
         title = "CodeVinci"
         subtitle = "CTF Team | Writeups & Security Research"
         imageUrl = "https://i.postimg.cc/vmfTQftt/Logo.png"
