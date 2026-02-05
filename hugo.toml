@@ -31,7 +31,7 @@ googleAnalytics = "G-05V46SQ3PV"
     disableThemeToggle = false
     
     ShowReadingTime = true
-    ShowShareButtons = true
+    ShowShareButtons = false
     ShareButtons = ["twitter", "linkedin", "reddit"]
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
@@ -42,7 +42,7 @@ googleAnalytics = "G-05V46SQ3PV"
     disableSpecial1stPost = false
     disableScrollToTop = false
     comments = false
-    hidemeta = false
+    hidemeta = true
     hideSummary = false
     showtoc = true
     tocopen = false
