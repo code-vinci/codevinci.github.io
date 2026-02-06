@@ -90,8 +90,7 @@ Output is in the `public/` directory.
 
 ## License
 
-- **Code**: MIT License
-- **Writeups**: CC BY-NC-SA 4.0
+The site is under Custom License, if in doubt, read [LICENSE](LICENSE)
 
 ## Contributing
 
