@@ -57,8 +57,8 @@ googleAnalytics = "G-05V46SQ3PV"
         imageHeight = 150
         imageTitle = "CodeVinci Logo"
         [[params.profileMode.buttons]]
-            name = "Writeups"
-            url = "posts"
+            name = "Events"
+            url = "events"
         [[params.profileMode.buttons]]
             name = "About Us"
             url = "about"
@@ -68,14 +68,11 @@ googleAnalytics = "G-05V46SQ3PV"
         name = "github"
         url = "https://github.com/code-vinci"
     [[params.socialIcons]]
-        name = "twitter"
-        url = "#"
-    [[params.socialIcons]]
         name = "discord"
-        url = "#"
+        url = "https://discord.gg/yztHgbgN"
     [[params.socialIcons]]
-        name = "rss"
-        url = "/index.xml"
+        name = "instagram"
+        url = "https://www.instagram.com/codevinci.itis/"
 
     # SEO
     [params.cover]
@@ -128,6 +125,11 @@ googleAnalytics = "G-05V46SQ3PV"
 [[menu.main]]
     name = "Search"
     url = "/search/"
+    weight = 20
+
+[[menu.main]]
+    name = "Contact Us"
+    url = "/contacts/"
     weight = 15
 
 # Syntax Highlighting
